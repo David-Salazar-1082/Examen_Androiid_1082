@@ -1,19 +1,5 @@
 # Examen_Android_1082
 
-A new Flutter project created with FlutLab - https://flutlab.io
+- ![image](https://github.com/user-attachments/assets/985ff10a-a854-4feb-acda-b196f515bd5a)
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- ![image](https://github.com/user-attachments/assets/8bf736c5-7a7b-4f38-bd8e-f6a4fe5d1c42)
